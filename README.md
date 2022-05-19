@@ -7,4 +7,6 @@ Are we alone? Diving into this growing question, a web page was created utilizin
 ## Results
 ![](/Resources/Fig1.png)
 
-test
+Building on the stylish simplicity of Bootstrap, our web page contains a mission statement to spark our interest in the topic of UFOlogy.
+
+![](/Resources/Fig2.png)
